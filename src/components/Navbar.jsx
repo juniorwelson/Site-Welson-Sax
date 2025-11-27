@@ -2,6 +2,7 @@
 
 import { X, List ,CircleUserRound} from "lucide-react";
 import { useState } from "react";
+import CardMusic from "./CardMusic";
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
@@ -18,7 +19,7 @@ const Navbar = () => {
             />
           </a>
         </div>
-
+ <CardMusic />
         <button className="md:hidden" onClick={() => setOpen(true)}>
           <List size={32} className="mr-5 text-amber-400" />
         </button>
