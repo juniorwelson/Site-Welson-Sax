@@ -40,12 +40,13 @@ Bem-vindo ao site oficial de Welson Sax, músico profissional especializado em s
 
 ## Partes das Seções do Site
 ### Hero
-![Hero Section](/assets/print-hero.png)
+![Hero Section](./public/assets/print-hero.png)
 
-
+```
 📫 Contato
 LinkedIn: www.linkedin.com/in/welson-junior-a587b72b8
 E-mail: eujuniorplus@gmail.com
 GitHub: github.com/juniorwelson
 Sinta-se à vontade para explorar meus projetos, contribuir com feedbacks ou entrar em contato. 🚀
 Obrigado pela visita! 👨‍💻✨
+```
