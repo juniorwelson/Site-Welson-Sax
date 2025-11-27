@@ -27,6 +27,8 @@ Bem-vindo ao site oficial de Welson Sax, músico profissional especializado em s
 
 -Hospedagem: Hostinger
 ```
+### Hero do Site
+<img width="500" height="239" alt="Image" src="https://github.com/user-attachments/assets/cc918edd-c3c6-4089-ae50-de30cf6fa73b" />
 ```
 
 ⚡ Funcionalidades
