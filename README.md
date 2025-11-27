@@ -38,9 +38,6 @@ Bem-vindo ao site oficial de Welson Sax, músico profissional especializado em s
 
 -Estilo moderno: Layout limpo e elegante que destaca o trabalho musical.
 
-## Partes das Seções do Site
-### Hero
-![Hero Section](/assets/print-hero.png)
 
 ```
 📫 Contato
