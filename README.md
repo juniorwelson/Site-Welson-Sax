@@ -1,7 +1,7 @@
 🎷 Welson Sax – Portfólio Online
 
 Bem-vindo ao site oficial de Welson Sax, músico profissional especializado em saxofone e flauta transversal. Este projeto tem como objetivo apresentar de forma elegante e interativa os serviços musicais, vídeos, galerias de fotos e formas de contato para contratação.
-
+```
 📌 Principais objetivos do site:
 
 -Mostrar galeria de fotos de apresentações e eventos.
@@ -13,7 +13,8 @@ Bem-vindo ao site oficial de Welson Sax, músico profissional especializado em s
 -Facilitar contato e contratação via WhatsApp ou redes sociais.
 
 -Criar uma presença profissional online que reflita a identidade do músico.
-
+```
+```
 🖥️ Tecnologias Utilizadas
 
 -Front-end: HTML5, CSS3, JavaScript, React.js
@@ -25,6 +26,8 @@ Bem-vindo ao site oficial de Welson Sax, músico profissional especializado em s
 -Multimídia: Vídeos e áudios incorporados para demonstração do trabalho musical
 
 -Hospedagem: Hostinger
+```
+```
 
 ⚡ Funcionalidades
 
@@ -37,7 +40,7 @@ Bem-vindo ao site oficial de Welson Sax, músico profissional especializado em s
 -Botões interativos: Chamadas para ação, incluindo contato via WhatsApp e redes sociais.
 
 -Estilo moderno: Layout limpo e elegante que destaca o trabalho musical.
-
+```
 
 ```
 📫 Contato
