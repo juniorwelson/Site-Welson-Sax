@@ -50,9 +50,7 @@ Este projeto tem como objetivo apresentar de forma **elegante, responsiva e inte
 ### Hero do Site
 <img width="500" height="239" alt="Image" src="https://github.com/user-attachments/assets/cc918edd-c3c6-4089-ae50-de30cf6fa73b" />
 ```
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cc918edd-c3c6-4089-ae50-de30cf6fa73b" width="500"/>
-</p>
+
 
 ⚡ Funcionalidades
 ---
