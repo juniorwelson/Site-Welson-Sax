@@ -40,7 +40,7 @@ Bem-vindo ao site oficial de Welson Sax, músico profissional especializado em s
 
 ## Partes das Seções do Site
 ### Hero
-![Hero Section](/assets/print-hero.png)
+![Hero Section](assets/print-hero.png)
 
 ```
 📫 Contato
